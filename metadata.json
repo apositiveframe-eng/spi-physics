@@ -1,0 +1,7 @@
+{
+  "name": "EchoMasters SPI Physics Protocol",
+  "description": "A high-fidelity diagnostic study platform for the ARDMS® SPI Physics exam with AI mentorship and real-time simulations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
